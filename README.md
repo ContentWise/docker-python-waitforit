@@ -3,7 +3,7 @@
 A Docker image with:
 
 * Python
-* [wait for it](https://github.com/maxcnunes/waitforit)
+* [wait for it](https://github.com/ContentWise/waitforit)
 
 ## Docker Hub
 
